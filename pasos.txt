@@ -1,0 +1,9 @@
+git init
+git add .
+git config --global user.name ""
+git config --global user.email ""
+git status
+git commit -m""
+git log
+git remote add origin https://github.com/usuario/repo.git
+git push origin master
