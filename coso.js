@@ -1,4 +1,5 @@
-let modifico, 
-otraModificacion,
+let modifico = "Valor", 
+segundaModificacion = "Otra",
 tercerModificacion,
-cuartaModificacion
+cuartaModificacion,
+quintaModificacion
