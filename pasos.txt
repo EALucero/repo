@@ -1,9 +1,11 @@
 git init
+git clone https://github.com/EALucero/repo.git
 git add .
-git config --global user.name ""
-git config --global user.email ""
+//git config --global user.name ""
+//git config --global user.email ""
 git status
 git commit -m""
-git log
-git remote add origin https://github.com/usuario/repo.git
-git push origin master
+git branch * master o git branch -M main
+//git log
+git remote add origin https://github.com/EALucero/repo.git
+git push -u (o f) origin master o main
